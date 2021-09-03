@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BackgroundChanger</string>
+    <string name="video_choose">Выбрать видео</string>
+    <string name="video_choosed">Видео выбрано</string>
+    <string name="background_choose">Выбрать фон</string>
+    <string name="background_choosed">Фон выбран</string>
+</resources>
